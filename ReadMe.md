@@ -1,5 +1,5 @@
 # Classificação de Imagens com Erros de Ortografia
-Esse repositório contém códigos em Python que classifica imagens, em um bucket Google Cloud, com erros de ortografia.
+Esse repositório contém códigos em Python que classifica imagens, em um bucket Google Cloud, com erros de ortografia. Para essa tarefa é utilizado o Gemini e Vertex AI do Google.
 
 # Passos necessários para execução desse script.
 ## Ativando Vertex API
