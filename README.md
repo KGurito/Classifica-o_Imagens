@@ -4,7 +4,7 @@ Esse repositório contém códigos em Python que classifica imagens, em um bucke
 Passos necessários para execução desse script.
 # Ativando Vertex API
   Em API Library, ative a Vertex API
-  Ativar a API do Vertex AI no Google Cloud Plataform
+  /Ativar a API do Vertex AI no Google Cloud Plataform
   Na aba "Credentials" da API, gere uma Service Account
   Atrele sua conta gmail do Google Cloud e baixe o arquivo JSON
   Nomeie o arquivo JSON para "vertex-key.json"
