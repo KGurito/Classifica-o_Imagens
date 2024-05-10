@@ -14,6 +14,8 @@ Esse repositório contém códigos em Python que classifica imagens, em um bucke
   Criar um bucket nomeado "images_for_revision"<br />
   Criar um basta images<br />
   Dento da pasta adicionar as imagens a serem analisadas
+#### Dica:
+  Crie o bucket em apenas uma região: us-central1
 
 ## A nível de teste execute o comando a seguir para liberação de comunicação da API e do bucket com a aplicação COLAB
   Abra o Cloud Shell do Google Cloud<br />
